@@ -1,0 +1,2 @@
+# kEncodingLib
+Some datastructure encodings
